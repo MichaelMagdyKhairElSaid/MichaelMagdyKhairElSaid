@@ -1,5 +1,5 @@
 ## Hi, I’m Michael Magdy
-- 👀 I am passionate about programming and committed to lifelong learning in a rapidly changing world.
-- 🌱 I’m currently learning docker 
-- ⚒️ I’m currently on the workFlow app for managing the company's everyday tasks 
+- 👀 I am a passionate full-stack developer specializing in building modern web applications with Node.js and React.js
+- 🌱 I’m currently learning TypeScript 
+- ⚒️ I’m currently on whatsapp clone
 - 📫 How to reach me michaelkhairelsaid@gmail.com
